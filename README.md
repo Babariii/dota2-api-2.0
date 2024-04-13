@@ -6,9 +6,7 @@
 [![Latest Stable Version](https://poser.pugx.org/kronusme/dota2-api/v/stable.svg)](https://packagist.org/packages/kronusme/dota2-api)
 [![Dependencies](https://www.versioneye.com/user/projects/5469ed86a760ce7bc8000027/badge.svg)](https://www.versioneye.com/user/projects/5469ed86a760ce7bc8000027)
 [![Code Climate](https://codeclimate.com/github/kronusme/dota2-api/badges/gpa.svg)](https://codeclimate.com/github/kronusme/dota2-api)
-
 ### About
-
 1. **What is it?**
 This is PHP code for processing DotA 2 API-requests.
 
@@ -343,9 +341,7 @@ echo $logoData->url;
 ````
 
 ### Thanks
-
 1. Valve for DotA 2 and Web API.
-
 2. [MuppetMaster42](http://dev.dota2.com/member.php?u=5137),  for http://dev.dota2.com/showthread.php?t=58317.
 
 3. Players, who don't hide their own statistic.
